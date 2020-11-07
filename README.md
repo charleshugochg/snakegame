@@ -1,5 +1,5 @@
 ## Snake World
-A standard output base classic snake game, focused on the architecture of the program without any library
+A standard output base classic snake game, focused on the architecture of the program without any framework.
 
 ```
 ##############################################
